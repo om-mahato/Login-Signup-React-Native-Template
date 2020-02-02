@@ -1,8 +1,4 @@
-<a href="https://techconductor.com"><img src="https://www.techconductor.com/assets/images/nav2.png" title="TechConductor" alt="TechConductor">
-
- ![techconductor](https://www.techconductor.com/assets/images/nav2.png)
-
-</a>
+<a href="https://techconductor.com"><img src="https://www.techconductor.com/assets/images/nav2.png" title="TechConductor" alt="TechConductor"></a>
 
 ***TechConductor (https://techconductor.com)***
 
@@ -34,12 +30,13 @@
 
 
 ***Screenshots***
-
-![Screenshots]( https://www.techconductor.com/assets/images/payStripe-images/sc1.jpeg )
-![Screenshots]( https://www.techconductor.com/assets/images/payStripe-images/sc2.jpeg )
-![Screenshots]( https://www.techconductor.com/assets/images/payStripe-images/sc3.jpeg )
-![Screenshots]( https://www.techconductor.com/assets/images/payStripe-images/sc4.jpeg )
-![Screenshots]( https://www.techconductor.com/assets/images/payStripe-images/sc5.jpeg )
+| | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+|<img width="1604" alt="screen shot" src="https://www.techconductor.com/assets/images/payStripe-images/sc1.jpeg"> | 
+<img width="1604" alt="screen shot" src="https://www.techconductor.com/assets/images/payStripe-images/sc2.jpeg"> |
+<img width="1604" alt="screen shot" src="https://www.techconductor.com/assets/images/payStripe-images/sc3.jpeg"> |
+<img width="1604" alt="screen shot" src="https://www.techconductor.com/assets/images/payStripe-images/sc4.jpeg"> |
+<img width="1604" alt="screen shot" src="https://www.techconductor.com/assets/images/payStripe-images/sc5.jpeg"> |
 ---
 
 
