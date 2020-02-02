@@ -31,12 +31,13 @@
 
 ***Screenshots***
 ---
+<p float="left">
 <img width="240" alt="screen shot" src="https://www.techconductor.com/assets/images/payStripe-images/sc1.jpeg"> 
 <img width="240" alt="screen shot" src="https://www.techconductor.com/assets/images/payStripe-images/sc2.jpeg"> 
 <img width="240" alt="screen shot" src="https://www.techconductor.com/assets/images/payStripe-images/sc3.jpeg"> 
 <img width="240" alt="screen shot" src="https://www.techconductor.com/assets/images/payStripe-images/sc4.jpeg"> 
 <img width="240" alt="screen shot" src="https://www.techconductor.com/assets/images/payStripe-images/sc5.jpeg"> 
-
+</p>
 ---
 
 
@@ -62,18 +63,11 @@ export default App;
 
 ---
 
-## Installation
-
-- `yarn install`
-- `react-native run-android`
-
 ### Clone
 
-- Clone this repo to your local machine using `git clone https://github.com/om-mahato/`
+- Clone this repo to your local machine using `git clone https://github.com/om-mahato/Login-Signup-React-Native-Template.git`
 
 ### Setup
-
-- If you want more syntax highlighting, format your code like this:
 
 > update and install this package first
 
@@ -94,7 +88,7 @@ $ `react-native run-android`
     - 🍴 Fork this repo!
 
 - **Option 2**
-    - 👯 Clone this repo to your local machine using `https://github.com/joanaz/HireDot2.git`
+    - 👯 Clone this repo to your local machine using `https://github.com/om-mahato/Login-Signup-React-Native-Template.git`
 
 ### Step 2
 
@@ -102,7 +96,7 @@ $ `react-native run-android`
 
 ### Step 3
 
-- 🔃 Create a new pull request using <a href="https://github.com/joanaz/HireDot2/compare/" target="_blank">`https://github.com/joanaz/HireDot2/compare/`</a>.
+- 🔃 Create a new pull request using <a href="https://github.com/om-mahato/Login-Signup-React-Native-Template/" target="_blank">`https://github.com/om-mahato/Login-Signup-React-Native-Template/`</a>.
 
 ---
 
