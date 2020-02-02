@@ -30,14 +30,13 @@
 
 
 ***Screenshots***
----
----
+
 <img width="220" alt="screen shot" src="https://www.techconductor.com/assets/images/payStripe-images/sc1.jpeg"> 
 <img width="220" alt="screen shot" src="https://www.techconductor.com/assets/images/payStripe-images/sc2.jpeg"> 
 <img width="220" alt="screen shot" src="https://www.techconductor.com/assets/images/payStripe-images/sc3.jpeg"> 
 <img width="220" alt="screen shot" src="https://www.techconductor.com/assets/images/payStripe-images/sc4.jpeg"> 
 <img width="220" alt="screen shot" src="https://www.techconductor.com/assets/images/payStripe-images/sc5.jpeg"> 
----
+
 ---
 
 
