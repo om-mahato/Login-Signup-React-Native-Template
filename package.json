@@ -12,7 +12,7 @@
         "@eva-design/eva": "^1.2.0",
         "@ui-kitten/eva-icons": "^4.2.0",
         "react": "16.8.1",
-        "react-native": "0.61.2",
+        "react-native": "0.62.3",
         "react-native-easy-grid": "^0.2.2",
         "react-native-gesture-handler": "^1.4.1",
         "react-native-keyboard-aware-scroll-view": "^0.9.1",
